@@ -1,0 +1,22 @@
+{
+  "name": "rooster-regulation",
+  "description": "This program demonstrates Mocha testing framework and the use of describe and it\r statements and assert methods.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ag4sm/mocha-demo-rooster-regulation.git"
+  },
+  "author": "Josh Scoville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ag4sm/mocha-demo-rooster-regulation/issues"
+  },
+  "homepage": "https://github.com/ag4sm/mocha-demo-rooster-regulation#readme"
+}
